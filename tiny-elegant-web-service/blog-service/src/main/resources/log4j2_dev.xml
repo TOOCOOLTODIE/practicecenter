@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Configuration status="trace">
     <properties>
-        <property name="LOG_HOME">D:/logs</property>
-        <property name="FILE_NAME">mylog</property>
+        <property name="LOG_HOME">/app/logs</property>
+        <property name="FILE_NAME">log</property>
         <property name="log.sql.level">info</property>
     </properties>
 
